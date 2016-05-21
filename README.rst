@@ -1,6 +1,6 @@
 
-Diapositivas de *Charla de Chatops en Python. Errbot*.
-======================================================
+`Diapositivas de *Charla de Chatops en Python. Errbot*.<https://daniel-at-github.github.io/python-vigo_2016-05-19_charla_errbot/Errbot.html?theme=sky&transition=cube#/>`_
+==========================================================================================================================================================================
 
 .. image:: images/python_vigo.png
 
@@ -20,6 +20,14 @@ Descarga
 
 Visualización
 -------------
+
+On line
+~~~~~~~
+
+`Publicado en git-hub <https://daniel-at-github.github.io/python-vigo_2016-05-19_charla_errbot/Errbot.html?theme=sky&transition=cube#/>`_ mediante la rama `gh-pages` de documentación de este proyecto.
+
+Off line
+~~~~~~~~
 
 * Entra en el directorio al cual has descargado el repositorio
 
